@@ -1,4 +1,6 @@
 /*
+ ***********************************
+ 
  AVALIAÇÃO DE INTELIGÊNCIA ARTIFICIAL
 
  ALUNO: THIAGO SILVA NUNES DE GOUVÊA
